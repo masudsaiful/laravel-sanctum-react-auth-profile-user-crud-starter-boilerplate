@@ -11,7 +11,8 @@
 ### By default 3 Levels menu mechanism but can easily customizable of your need 
 
 ## Installation
-### Frontend - npm install, Backend - composer install, that's it!
+### Frontend - npm install, 
+### Backend - i) composer install, ii) run dB migrate, run dB seed, that's it!
 
 ## Node Version >= v18 || v18+
 ## PHP Version >= v8 || v8+
