@@ -1,4 +1,4 @@
-# laravel-sanctum-react-auth-profile-usercrud-starter-boilerplate
+# laravel-sanctum-react-auth-profile-user-crud-starter-boilerplate
 ## Handled stateful and stateless full stack authentication system, profile manage, user CRUD and easily customizable to extend any CRUD operation. 
 ### Profile CRUD
 ### User CRUD
